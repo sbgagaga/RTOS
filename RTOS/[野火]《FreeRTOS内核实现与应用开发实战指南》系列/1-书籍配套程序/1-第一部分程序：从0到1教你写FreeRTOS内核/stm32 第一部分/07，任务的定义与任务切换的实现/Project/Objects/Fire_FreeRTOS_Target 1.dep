@@ -1,0 +1,65 @@
+Dependencies for Project 'Fire_FreeRTOS', Target 'Target 1': (DO NOT MODIFY !)
+F (..\User\main.c)(0x60A1BA9F)(--c99 -c --cpu Cortex-M3 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\freertos\include -I ..\freertos\portable\RVDS\ARM_CM3-I.\RTE\_Target_1-ID:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="526" -D_RTE_ -DARMCM3-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\freertos\include\FreeRTOS.h)(0x60A1BA9F)
+I (..\freertos\include\FreeRTOSConfig.h)(0x60A1BA9F)
+I (..\freertos\include\projdefs.h)(0x60A1BA9F)
+I (..\freertos\include\portable.h)(0x60A1BA9F)
+I (..\freertos\include\portmacro.h)(0x60A1BA9F)
+I (D:\LoadDown\Kile\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (D:\LoadDown\Kile\ARM\ARMCC\include\stddef.h)(0x599EDB3C)
+I (..\freertos\include\list.h)(0x60A1BA9F)
+I (..\freertos\include\task.h)(0x60A1BA9F)
+F (..\freertos\portable\RVDS\ARM_CM3\port.c)(0x60A1BA9F)(--c99 -c --cpu Cortex-M3 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\freertos\include -I ..\freertos\portable\RVDS\ARM_CM3-I.\RTE\_Target_1-ID:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="526" -D_RTE_ -DARMCM3-o .\objects\port.o --omf_browse .\objects\port.crf --depend .\objects\port.d)
+I (..\freertos\include\FreeRTOS.h)(0x60A1BA9F)
+I (..\freertos\include\FreeRTOSConfig.h)(0x60A1BA9F)
+I (..\freertos\include\projdefs.h)(0x60A1BA9F)
+I (..\freertos\include\portable.h)(0x60A1BA9F)
+I (..\freertos\include\portmacro.h)(0x60A1BA9F)
+I (D:\LoadDown\Kile\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (D:\LoadDown\Kile\ARM\ARMCC\include\stddef.h)(0x599EDB3C)
+I (..\freertos\include\list.h)(0x60A1BA9F)
+I (..\freertos\include\task.h)(0x60A1BA9F)
+I (D:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x5B617086)
+I (D:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm3.h)(0x5B617084)
+I (D:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F3E94)
+I (D:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5843C6)
+I (D:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B617084)
+I (D:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\mpu_armv7.h)(0x5B617084)
+I (D:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x5B617086)
+F (..\freertos\task.c)(0x60A1BA9F)(--c99 -c --cpu Cortex-M3 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\freertos\include -I ..\freertos\portable\RVDS\ARM_CM3-I.\RTE\_Target_1-ID:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="526" -D_RTE_ -DARMCM3-o .\objects\task.o --omf_browse .\objects\task.crf --depend .\objects\task.d)
+I (..\freertos\include\FreeRTOS.h)(0x60A1BA9F)
+I (..\freertos\include\FreeRTOSConfig.h)(0x60A1BA9F)
+I (..\freertos\include\projdefs.h)(0x60A1BA9F)
+I (..\freertos\include\portable.h)(0x60A1BA9F)
+I (..\freertos\include\portmacro.h)(0x60A1BA9F)
+I (D:\LoadDown\Kile\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (D:\LoadDown\Kile\ARM\ARMCC\include\stddef.h)(0x599EDB3C)
+I (..\freertos\include\list.h)(0x60A1BA9F)
+I (..\freertos\include\task.h)(0x60A1BA9F)
+F (..\freertos\include\FreeRTOS.h)(0x60A1BA9F)()
+F (..\freertos\include\portable.h)(0x60A1BA9F)()
+F (..\freertos\include\portmacro.h)(0x60A1BA9F)()
+F (..\freertos\include\FreeRTOSConfig.h)(0x60A1BA9F)()
+F (..\freertos\include\task.h)(0x60A1BA9F)()
+F (..\freertos\include\projdefs.h)(0x60A1BA9F)()
+F (..\freertos\list.c)(0x60A1BA9F)(--c99 -c --cpu Cortex-M3 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\freertos\include -I ..\freertos\portable\RVDS\ARM_CM3-I.\RTE\_Target_1-ID:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="526" -D_RTE_ -DARMCM3-o .\objects\list.o --omf_browse .\objects\list.crf --depend .\objects\list.d)
+I (..\freertos\include\FreeRTOS.h)(0x60A1BA9F)
+I (..\freertos\include\FreeRTOSConfig.h)(0x60A1BA9F)
+I (..\freertos\include\projdefs.h)(0x60A1BA9F)
+I (..\freertos\include\portable.h)(0x60A1BA9F)
+I (..\freertos\include\portmacro.h)(0x60A1BA9F)
+I (D:\LoadDown\Kile\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (D:\LoadDown\Kile\ARM\ARMCC\include\stddef.h)(0x599EDB3C)
+I (..\freertos\include\list.h)(0x60A1BA9F)
+I (D:\LoadDown\Kile\ARM\ARMCC\include\stdlib.h)(0x599EDB3C)
+F (..\Doc\readm.txt)(0x60A1BA9F)()
+F (RTE\Device\ARMCM3\startup_ARMCM3.s)(0x60A1BA9F)(--cpu Cortex-M3 --li -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_Target_1-ID:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM3\Include--pd "__UVISION_VERSION SETA 526" --pd "_RTE_ SETA 1" --pd "ARMCM3 SETA 1"--list .\listings\startup_armcm3.lst --xref -o .\objects\startup_armcm3.o --depend .\objects\startup_armcm3.d)
+F (RTE\Device\ARMCM3\system_ARMCM3.c)(0x60A1BA9F)(--c99 -c --cpu Cortex-M3 -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\User -I ..\freertos\include -I ..\freertos\portable\RVDS\ARM_CM3-I.\RTE\_Target_1-ID:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="526" -D_RTE_ -DARMCM3-o .\objects\system_armcm3.o --omf_browse .\objects\system_armcm3.crf --depend .\objects\system_armcm3.d)
+I (D:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x5B617086)
+I (D:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm3.h)(0x5B617084)
+I (D:\LoadDown\Kile\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (D:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F3E94)
+I (D:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5843C6)
+I (D:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B617084)
+I (D:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\mpu_armv7.h)(0x5B617084)
+I (D:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x5B617086)
