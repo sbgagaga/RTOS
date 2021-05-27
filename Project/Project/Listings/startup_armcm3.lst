@@ -699,8 +699,8 @@ ARM Macro Assembler    Page 11
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
 ork --depend=.\objects\startup_armcm3.d -o.\objects\startup_armcm3.o -I.\RTE\_T
-arget_1 -IE:\DonwLoad\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include -IE:\Don
-wLoad\Kile\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM3\Include --predefine="__UV
+arget_1 -ID:\LoadDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include -ID:\Loa
+dDown\Kile\ARM\PACK\ARM\CMSIS\5.4.0\Device\ARM\ARMCM3\Include --predefine="__UV
 ISION_VERSION SETA 526" --predefine="_RTE_ SETA 1" --predefine="ARMCM3 SETA 1" 
 --list=.\listings\startup_armcm3.lst RTE\Device\ARMCM3\startup_ARMCM3.s
 
